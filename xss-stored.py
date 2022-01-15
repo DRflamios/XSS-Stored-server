@@ -1,4 +1,4 @@
-
+self.headers.get('Content-Type')
 from flask import Flask, json, request
 import socket
 
