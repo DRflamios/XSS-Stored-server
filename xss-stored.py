@@ -1,3 +1,4 @@
+'''python3 doesn't work.'''
 self.headers.get('Content-Type')
 from flask import Flask, json, request
 import socket
