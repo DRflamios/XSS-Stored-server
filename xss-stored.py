@@ -14,3 +14,4 @@ if __name__ == '__main__':
         name = socket.gethostname()
         print("\nCommand: http://" + socket.gethostbyname(name.split('.')[0]) + ":6786/right\n\n\n\n___________________________________")
         api.run(host='0.0.0.0', port='6786')
+'''self.headers.get('Content-Type')'''
